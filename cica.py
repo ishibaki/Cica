@@ -866,7 +866,7 @@ class Cica:
         self.fix_box_drawings()
         self.zenkaku_space()
         self.dotted_zero()
-        self.slashed_zero()
+        # self.slashed_zero()
         self.stroked_d()
         self.modify_WM()
         self.vertical_line_to_broken_bar()
